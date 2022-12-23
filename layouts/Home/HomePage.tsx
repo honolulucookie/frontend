@@ -10,7 +10,7 @@ export const HomePage = () => {
             <Carousel />
             <Intro />
             <Services />
-        </>
+        </> 
 
     );
  

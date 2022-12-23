@@ -10,7 +10,7 @@ export const ReturnProduct: React.FC<{product: ProductModel}> = (props) => { // 
                     src={props.product.img}
                     width='151'
                     height='233'
-                    alt="product"
+                    alt="product" 
                     />
                     : 
                     <img

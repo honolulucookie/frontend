@@ -61,7 +61,7 @@ export const Intro = () => {
                                     to='search'>Explore top books</Link>
                                 :
                                 <Link className='btn main-color btn-lg text-white' to='/login'>Sign up</Link>
-                        } */}
+                        } */} 
                         <a className='btn main-color btn-lg text-white' href='#'>Sign up</a>
                         </div>
                     </div> 

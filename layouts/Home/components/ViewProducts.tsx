@@ -11,5 +11,5 @@ export const ViewProducts = () => {
             </div>
         
         </div>
-    ) 
+    )  
 }
